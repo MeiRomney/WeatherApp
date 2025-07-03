@@ -1,0 +1,14 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "Reporting weather by cities' names",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mei Romney",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
