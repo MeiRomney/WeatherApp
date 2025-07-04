@@ -3,12 +3,15 @@
   "version": "1.0.0",
   "description": "Reporting weather by cities' names",
   "main": "index.js",
+  "homepage": "https://MeiRomney.github.io/WeatherApp",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d WeatherApp"
   },
   "author": "Mei Romney",
   "license": "ISC",
   "dependencies": {
+    "gh-pages": "^6.3.0",
     "node-sass": "^9.0.0"
   }
 }
