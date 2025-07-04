@@ -6,7 +6,7 @@
   "homepage": "https://MeiRomney.github.io/WeatherApp",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "gh-pages -d WeatherApp"
+    "deploy": "gh-pages -d dist"
   },
   "author": "Mei Romney",
   "license": "ISC",
